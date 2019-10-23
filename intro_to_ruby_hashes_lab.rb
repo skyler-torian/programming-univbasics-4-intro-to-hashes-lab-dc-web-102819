@@ -23,7 +23,6 @@ my_hash_creator = {
   :name => "Grace Hopper"
   }
 end
-my_hash_creator
 
 def read_from_hash(hash, key)
   read_from_hash = {
